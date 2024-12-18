@@ -1,0 +1,1 @@
+mcs -target:library -out:$DST_FILE -r:/path/to/UnityEngine.dll -r:/path/to/UnityEngine.CoreModule.dll $TEMP_FILE
